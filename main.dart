@@ -9,7 +9,7 @@ void main() {
   print("isNegative: ${number1.isNegative}"); // false
   print("abs(): ${number1.abs()}"); // 4.3
 
-  print("\nالقيمة الأصلية: $number2");
+  print("\number2: $number2");
   print("ceil(): ${number2.ceil()}"); // -7
   print("floor(): ${number2.floor()}"); // -8
   print("round(): ${number2.round()}"); // -8
